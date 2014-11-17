@@ -27,7 +27,10 @@
 *.i*86
 *.x86_64
 *.hex
+<<<<<<< HEAD
 
 #temp files
 *.c~
 .gitignore~
+=======
+>>>>>>> ba3701628e2d00220b4c6d058f2ea6eb45e92b01
